@@ -1,2 +1,1 @@
-# limits-services-cloud-config-gitrepo
-limits-services-cloud-config-gitrepo
+# Connect limit-services->Spring-cloud-config-server->gitRepo
